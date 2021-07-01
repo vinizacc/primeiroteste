@@ -1,0 +1,1 @@
+Esta é um commit feito na loja.
